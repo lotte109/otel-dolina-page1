@@ -1,0 +1,229 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    background-image: url(img/Rectangle\ 35\ \(1\).png);    
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gilroy-Regular', sans-serif;
+}
+
+header {
+    min-width: 209px;
+}
+
+.container {
+    max-width: 1290px;
+    margin: 0 auto;
+}
+
+.header-inner {
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding-top: 20px;
+}
+
+.logo-2 {
+    padding-left: 30px;
+    cursor: pointer;
+}
+
+.logo-1 {
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.lists {
+    display: flex;
+    gap: 0 40px;
+}
+
+.inner-img {
+    cursor: pointer;
+}
+
+.inner-img-2 {
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+.list {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19.6px;
+}
+
+.btn-1 {
+    font-size: 13px;
+    line-height: 18.2px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    padding-left: 18px;
+}
+
+.btn {
+    width: 171px;
+    height: 42px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.sce {
+    color: #ffffff;
+    margin-left: 20px;
+}
+
+.extr-inner {
+    margin-top: 130px;
+}
+
+.sce-1 {
+    color: #ffffff;
+}
+
+.title-p{
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 64px;
+    margin: 0;
+}
+
+.title-hotel {
+    margin-top: 40px;
+}
+
+.title-btn {
+    font-size: 18px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.extr-inner-3 {
+    margin-top: 60px;
+}
+
+.btn-purple {
+    background-color: rgba(61, 50, 79, 1);
+    border: none;
+    border-radius: 12px;
+    width: 278px;
+    height: 57px;
+    cursor: pointer;
+}
+
+.title{
+    font-size: 24px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: 140px;
+}
+
+.appartament {
+    width: 340px;
+    height: 168px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.35) rgba(255, 255, 255, 0.35));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(1px);
+    border-radius: 20px;
+    border:1px solid rgba(255, 255, 255, 0.18);
+}
+
+.blur {
+   filter: blur(10px);
+}
+
+.extr-inner-4 {
+    margin-top: 40px;
+}
+
+.img-blur {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.flex {
+    display: flex;
+}
+
+.content-p {
+    padding-top: 5px;
+    padding-left: 30px;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.rub-p {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 24px;
+    padding-left: 32px;
+}
+
+.btn-5 {
+    width: 120px;
+    height: 42px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgba(61, 50, 79, 1);
+    cursor: pointer;
+}
+
+.btn-6 {
+    padding-left: 32px;
+}
+
+.btn-5-p {
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.extr-inner-flex {
+    display: flex;
+}
+
+.extr-inner-5 {
+    margin-top: 40px;
+    margin-left: 35px;
+}
+
+.appartament-2 {
+    width: 366px;
+    height: 168px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.35) rgba(255, 255, 255, 0.35));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(1px);
+    border-radius: 20px;
+    border:1px solid rgba(255, 255, 255, 0.18);
+}
+
+.extr-inner-6 {
+    margin-top: 40px;
+    margin-left: 35px;
+}
